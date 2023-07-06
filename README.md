@@ -2,7 +2,7 @@
 
 This cafe menu was created using the Responsive Web Design free training at Free Code Camp training
 
-The live link to the website can be found here - <https://todiane.github.io/cafe-menu-fcc/>
+The live link to the website can be found here - <https://todiane.github.io/cafe-menu/>
 
 The menu contains a background image and is a simple one page template which includes coffee and dessert items.
 
