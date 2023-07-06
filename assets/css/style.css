@@ -1,5 +1,7 @@
+/* STYLE CSS SHEET - CREDIT TO FREE CODE CAMP.ORG*/
+
 body {
-    background-image: url("/assets/images/coffee-beans.webp");
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
     padding: 20px;
 }
